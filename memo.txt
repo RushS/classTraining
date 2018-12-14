@@ -1,0 +1,20 @@
+一 (Clousre)
+
+二 (EventLoop)
+1. SetTimeOut 與 Promise 的先後順序關係
+2. SetTimeOut 在 JS 上是很不準的, 因為 JS 線程管理的關係。
+3. eventloop
+宏任務 (Macro task)
+微任務 (Micro task)
+
+3-1.
+async
+Promise
+
+async所返回的物件皆是Promise屬性
+
+三 (Prototype chain)
+call
+apply
+bind
+3個的差異
